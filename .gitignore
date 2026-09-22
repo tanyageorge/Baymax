@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Baymax-specific
+.env
+chroma_db/
+node_modules/
+.DS_Store
+dist/
+build/
