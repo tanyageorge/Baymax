@@ -1,4 +1,20 @@
 fastapi==0.115.0
 uvicorn[standard]==0.30.6
-pydantic==2.9.2
+pydantic>=2.9.2,<3.0.0
 python-dotenv==1.0.1
+
+# RAG stack (Day 1 — local embeddings, no API key needed)
+llama-index-core==0.14.24
+llama-index-vector-stores-chroma==0.6.0
+llama-index-readers-file==0.7.0
+chromadb==1.5.9
+scikit-learn==1.9.1
+
+# Real semantic embeddings (swap in once retrieval works with the TF-IDF
+# stand-in below — see the note at the top of scripts/test_retrieval.py)
+llama-index-embeddings-huggingface==0.6.1
+sentence-transformers==3.1.1
+
+# LLM clients (wired up once an API key is added, at Milestone 2)
+anthropic==0.34.2
+openai==1.51.0

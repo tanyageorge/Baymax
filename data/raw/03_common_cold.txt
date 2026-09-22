@@ -1,0 +1,18 @@
+TITLE: Common Cold
+SOURCE: CDC (https://www.cdc.gov/common-cold/about/index.html)
+RETRIEVED: 2026-09-15
+
+## What Is the Common Cold?
+A viral infection affecting the upper respiratory tract. "Colds usually last less than a week and are caused by different respiratory viruses." Adults typically get 2-3 colds annually; children more often.
+
+## Common Symptoms
+Symptoms typically peak within 2-3 days and may include: runny nose and nasal congestion, cough and sneezing, sore throat, headache and mild body aches, low-grade fever (especially in older children and adults).
+
+## Causes
+Over 200 respiratory viruses can trigger colds; rhinoviruses are the most common in the US. Others include human coronaviruses, parainfluenza, adenoviruses, enteroviruses, and human metapneumovirus.
+
+## How It Spreads
+Mostly through respiratory droplets from coughing/sneezing, or touching contaminated surfaces then the face. Some spread through direct contact like handshakes.
+
+## When to Seek Medical Care
+Complications requiring medical attention: middle ear and sinus infections, asthma attacks (wheezing/breathing difficulty), bronchiolitis or bronchitis, pneumonia, worsening of chronic conditions (COPD, heart failure). If symptoms suggest COVID-19 or flu, especially for high-risk individuals, testing is recommended since antivirals exist for those.

@@ -1,0 +1,18 @@
+TITLE: Food Poisoning
+SOURCE: CDC (https://www.cdc.gov/food-safety/signs-symptoms/index.html)
+RETRIEVED: 2026-09-15
+
+## Common Symptoms
+Diarrhea, stomach pain or cramps, nausea, vomiting, fever. "Symptoms can range from mild to serious and can last for a few hours or several days." Onset timing varies by pathogen — some cause illness within hours, others take days.
+
+## Self-Care Guidance
+Maintain adequate fluid intake to prevent dehydration, which can worsen the condition.
+
+## When to Seek Medical Attention
+Bloody diarrhea; diarrhea lasting more than 3 days; high fever (over 102°F); persistent vomiting that prevents keeping liquids down; dehydration signs (minimal urination, dry mouth and throat, dizziness when standing).
+
+## Special Populations
+Pregnant individuals should call their doctor immediately if experiencing fever with flu-like symptoms, since some infections can cause pregnancy complications.
+
+## Potential Complications
+Most cases resolve without intervention, but serious foodborne illness can require hospitalization and cause long-term issues including kidney damage, neurological problems, and hemolytic uremic syndrome — some complications persist for weeks, months, or permanently.

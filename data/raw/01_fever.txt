@@ -1,0 +1,18 @@
+TITLE: Fever
+SOURCE: MedlinePlus (https://www.medlineplus.gov/fever.html)
+RETRIEVED: 2026-09-15
+
+## What Is a Fever?
+A fever is an elevated body temperature above the normal baseline of approximately 98.6°F (37°C). "A fever is not a disease. It is usually a sign that your body is trying to fight an illness or infection."
+
+## How Fevers Work
+The body raises its temperature as a defense mechanism. Most harmful bacteria and viruses thrive at normal body temperatures, but when temperature increases, their survival becomes more difficult. This elevated state also stimulates immune system activation to combat the invading pathogens.
+
+## Common Causes
+Primary cause: infections (viral or bacterial). Other causes include certain medications (antibiotics, blood pressure drugs, anti-seizure medications), heat-related illness, cancer, autoimmune conditions, and some childhood vaccines.
+
+## Home Care and Self-Treatment
+Over-the-counter options include acetaminophen or ibuprofen. Adults may use aspirin, but children with fevers should avoid it. Maintaining adequate fluid intake is essential to prevent dehydration.
+
+## When to Seek Medical Care
+Consult a healthcare provider about fever causes and appropriate treatment, especially for persistent or high fevers.

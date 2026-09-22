@@ -1,0 +1,15 @@
+TITLE: Seasonal Flu
+SOURCE: CDC (https://www.cdc.gov/flu/signs-symptoms/index.html)
+RETRIEVED: 2026-09-15
+
+## Common Symptoms
+"Flu symptoms usually come on suddenly." Common symptoms: fever or chills (not all flu cases include fever), cough, sore throat, runny or stuffy nose, muscle or body aches, headaches, fatigue, vomiting and diarrhea (more common in children).
+
+## Recovery
+Most people recover within a few days to two weeks. Complications can include pneumonia, sinus infections, ear infections, or inflammation of the heart, brain, or muscle tissue.
+
+## Emergency Warning Signs in Children
+Rapid or difficult breathing; blue lips or face; chest pain; severe muscle pain (e.g. refusing to walk); dehydration (no urination for 8 hours, dry mouth, absent tears); unresponsiveness or lack of interaction when awake; seizures; fever above 104°F uncontrolled by fever-reducing medicine; any fever in children under 12 weeks; symptoms that improve then worsen; worsening of chronic medical conditions.
+
+## Emergency Warning Signs in Adults
+Breathing difficulty or shortness of breath; persistent chest or abdominal pain/pressure; ongoing dizziness, confusion, or inability to be roused; seizures; absence of urination; severe muscle pain; severe weakness or unsteadiness; symptoms that improve then return/worsen; worsening of chronic medical conditions.
