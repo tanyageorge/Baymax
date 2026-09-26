@@ -6,6 +6,9 @@ from pydantic import BaseModel
 from app.llm_client import generate_answer
 from app.retrieval import build_index, retrieve_chunks
 
+from fastapi.middleware.cors import CORSMiddleware
+
+
 # Built once at server startup, reused for every /chat request.
 _index = None
 
@@ -25,6 +28,15 @@ app = FastAPI(
     description="AI healthcare companion backend (RAG-grounded).",
     version="0.1.0",
     lifespan=lifespan,
+)
+
+
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:5173"],  # your Vite dev server
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
